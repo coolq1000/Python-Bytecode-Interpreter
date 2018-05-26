@@ -1,0 +1,37 @@
+
+"Use strings for comments.";
+
+"Demonstrates a simple function call.";
+print("Test");
+
+"Functions.";
+function cube(x)
+{
+    return x * x * x;
+}
+
+print(cube(3));
+">>>: 27";
+
+if (true)
+{
+    print("Ding!");
+}
+
+if (false)
+{
+    print("Wot.");
+}
+
+if (1 == 1)
+{
+    print("Ding!");
+}
+
+"Loops.";
+i = 0;
+while (i < 10)
+{
+    print(i);
+    i = i + 1;
+}
