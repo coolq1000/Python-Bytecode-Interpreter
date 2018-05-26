@@ -19,7 +19,7 @@ optional arguments:
 ```
 
 ## Sample use
-`python3 src/main.py examples/example.osxl`
+`python3 main.py examples/example.osxl`
 
 ## Example code
 ```JS
