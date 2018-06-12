@@ -35,3 +35,6 @@ print(cube(3));
 
 ## Known issues
  1. Arithmetic Order Of Operations is not correct.
+
+## Dependencies
+ - Lark (`pip3 install lark-parser`)
